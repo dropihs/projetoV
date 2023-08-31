@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDcc4ffc24390131109c4d9dd94a7a03fc</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>0a2350a0472031107d28dac8536d4359</scope_name>
+        <serialized_content>{"FlowDesigner:FDcc4ffc24390131109c4d9dd94a7a03fc":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDcc4ffc24390131109c4d9dd94a7a03fc.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Count Matches\",\"mandatory\":\"false\",\"child_name\":\"count_matches_child0\",\"uiUniqueId\":\"ebcb9075-24d7-46ae-8d76-c6bd5ec13a5e\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDcc4ffc24390131109c4d9dd94a7a03fc\",\"child_label\":\"Match_ID\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"88549a56-d331-42f4-94a4-6e7e5ae8e3aa\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-30 19:12:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>804ffc24470131107d28dac8536d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDcc4ffc24390131109c4d9dd94a7a03fc</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="projetoV" source="x_1020518_projetov">0a2350a0472031107d28dac8536d4359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="projetoV">0a2350a0472031107d28dac8536d4359</sys_scope>
+        <sys_update_name>sys_complex_object_804ffc24470131107d28dac8536d43fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-30 19:12:38</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
