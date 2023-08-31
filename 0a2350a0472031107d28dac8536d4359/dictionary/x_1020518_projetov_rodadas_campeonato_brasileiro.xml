@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="997332c4470131107d28dac8536d437a" label="Rodadas Campeonato Brasileiro" max_length="40" name="x_1020518_projetov_rodadas_campeonato_brasileiro" type="collection">
+        <element label="awayTeam" max_length="40" name="awayteam" type="string"/>
+        <element label="awayTeamTla" max_length="40" name="awayteamtla" type="string"/>
+        <element label="currentMatch" max_length="40" name="currentmatch" type="integer"/>
+        <element label="endDate" max_length="40" name="enddate" type="string"/>
+        <element label="homeTeam" max_length="40" name="hometeam" type="string"/>
+        <element label="homeTeamTla" max_length="40" name="hometeamtla" type="string"/>
+        <element label="id" max_length="40" name="id" type="integer"/>
+        <element label="Match" max_length="40" name="match" type="integer"/>
+        <element label="matchday" max_length="40" name="matchday" type="integer"/>
+        <element label="resultAway" max_length="40" name="resultaway" type="integer"/>
+        <element label="resultHome" max_length="40" name="resulthome" type="integer"/>
+        <element label="startDate" max_length="40" name="startdate" type="string"/>
+        <element label="status" max_length="40" name="status" type="string"/>
+        <element choice="1" label="winner" max_length="40" name="winner" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
