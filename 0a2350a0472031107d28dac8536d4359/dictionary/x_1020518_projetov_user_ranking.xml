@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d8a462d347c131107d28dac8536d4363" extends="x_1020518_projetov_users_choice" label="User Ranking" max_length="40" name="x_1020518_projetov_user_ranking" type="collection">
+        <element label="points" max_length="600" name="points" read_only="true" type="string"/>
+    </element>
+</database>

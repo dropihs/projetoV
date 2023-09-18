@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="DELETE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Incident Deflection">091fa3d3c37221003d2ae219cdba8f0e</cxs_context_config>
+        <limit>10</limit>
+        <name>Rodada 26 - Jogo 1 </name>
+        <results_header_text>Related Search Results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Rodada 26 - Jogo 1 ">c901b282470931107d28dac8536d437c</sc_cat_item>
+        <search_variable display_value="Quem vence?">f3c5bec6470931107d28dac8536d4369</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>moacir</sys_created_by>
+        <sys_created_on>2023-09-05 14:43:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76cabe9647c131107d28dac8536d43de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rodada 26 - Jogo 1 </sys_name>
+        <sys_package display_value="projetoV" source="x_1020518_projetov">0a2350a0472031107d28dac8536d4359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="projetoV">0a2350a0472031107d28dac8536d4359</sys_scope>
+        <sys_update_name>cxs_rp_config_76cabe9647c131107d28dac8536d43de</sys_update_name>
+        <sys_updated_by>moacir</sys_updated_by>
+        <sys_updated_on>2023-09-05 14:43:05</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="DELETE" query="documentkey=76cabe9647c131107d28dac8536d43de"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="projetoV">0a2350a0472031107d28dac8536d4359</application>
+        <file_path/>
+        <instance_id>7c9698cddb1ad5141955c5970596190a</instance_id>
+        <instance_name>dev138230</instance_name>
+        <name>cxs_rp_config_76cabe9647c131107d28dac8536d43de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config"><cxs_rp_config action="INSERT_OR_UPDATE"><active>true</active><allow_expand_collapse>true</allow_expand_collapse><cxs_context_config display_value="Incident Deflection">091fa3d3c37221003d2ae219cdba8f0e</cxs_context_config><limit>10</limit><name>Rodada 26 - Jogo 1 </name><results_header_text>Related Search Results</results_header_text><results_per_page>10</results_per_page><sc_cat_item display_value="Rodada 26 - Jogo 1 ">c901b282470931107d28dac8536d437c</sc_cat_item><search_variable display_value="Quem vence?">f3c5bec6470931107d28dac8536d4369</search_variable><sys_class_name>cxs_rp_config</sys_class_name><sys_created_by>moacir</sys_created_by><sys_created_on>2023-09-05 14:43:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>76cabe9647c131107d28dac8536d43de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rodada 26 - Jogo 1 </sys_name><sys_package display_value="projetoV" source="x_1020518_projetov">0a2350a0472031107d28dac8536d4359</sys_package><sys_policy/><sys_scope display_value="projetoV">0a2350a0472031107d28dac8536d4359</sys_scope><sys_update_name>cxs_rp_config_76cabe9647c131107d28dac8536d43de</sys_update_name><sys_updated_by>moacir</sys_updated_by><sys_updated_on>2023-09-05 14:43:05</sys_updated_on></cxs_rp_config><sys_translated_text action="delete_multiple" query="documentkey=76cabe9647c131107d28dac8536d43de"/></record_update>]]></payload>
+        <payload_hash>493000144</payload_hash>
+        <record_name>Rodada 26 - Jogo 1 </record_name>
+        <reverted_from/>
+        <source>a741d65b474131107d28dac8536d4323</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>moacir</sys_created_by>
+        <sys_created_on>2023-09-05 14:43:06</sys_created_on>
+        <sys_id>ee1b36d647c131107d28dac8536d4385</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>18a65cc0f6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-08 14:14:26</sys_updated_on>
+        <type>Record Producer Configuration</type>
+        <update_guid>261b36d6b5c131107c7d664825112285</update_guid>
+        <update_guid_history>261b36d6b5c131107c7d664825112285:493000144</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rodada 26 - Jogo 1 ">404bf6d647c131107d28dac8536d435b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>moacir</sys_created_by>
+        <sys_created_on>2023-09-05 14:43:45</sys_created_on>
+        <sys_db_object display_value="" name="cxs_rp_config">cxs_rp_config</sys_db_object>
+        <sys_id>03f63b4db82a47cc802ed6ec97deff10</sys_id>
+        <sys_metadata>76cabe9647c131107d28dac8536d43de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rodada 26 - Jogo 1 </sys_name>
+        <sys_package display_value="projetoV" source="x_1020518_projetov">0a2350a0472031107d28dac8536d4359</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="projetoV">0a2350a0472031107d28dac8536d4359</sys_scope>
+        <sys_scope_delete display_value="">684e4ed707914328a4947fed454d0ec1</sys_scope_delete>
+        <sys_update_name>cxs_rp_config_76cabe9647c131107d28dac8536d43de</sys_update_name>
+        <sys_update_version display_value="cxs_rp_config_76cabe9647c131107d28dac8536d43de">ee1b36d647c131107d28dac8536d4385</sys_update_version>
+        <sys_updated_by>moacir</sys_updated_by>
+        <sys_updated_on>2023-09-05 14:43:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -2,17 +2,28 @@
     <element db_object_id="997332c4470131107d28dac8536d437a" label="Rodadas Campeonato Brasileiro" max_length="40" name="x_1020518_projetov_rodadas_campeonato_brasileiro" type="collection">
         <element label="awayTeam" max_length="40" name="awayteam" type="string"/>
         <element label="awayTeamTla" max_length="40" name="awayteamtla" type="string"/>
+        <element label="Away Team Crest Html" max_length="65536" name="away_crest_html" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Away Crest Url" max_length="1024" name="away_crest_url" type="url"/>
         <element label="currentMatch" max_length="40" name="currentmatch" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Dia da partida 2" max_length="40" name="diadapartida2" type="calendar_date_time"/>
         <element label="endDate" max_length="40" name="enddate" type="string"/>
         <element label="homeTeam" max_length="40" name="hometeam" type="string"/>
         <element label="homeTeamTla" max_length="40" name="hometeamtla" type="string"/>
+        <element label="Home Team Crest Html" max_length="65536" name="home_crest_html" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Home Crest URL" max_length="1024" name="home_crest_url" type="url"/>
+        <element attributes="pdf_cell_type=image" label="Home Team Crest" max_length="40" name="home_team_crest" type="user_image"/>
         <element label="id" max_length="40" name="id" type="integer"/>
         <element label="Match" max_length="40" name="match" type="integer"/>
-        <element label="matchday" max_length="40" name="matchday" type="integer"/>
+        <element label="Rodada" max_length="40" name="matchday" type="integer"/>
         <element label="resultAway" max_length="40" name="resultaway" type="integer"/>
         <element label="resultHome" max_length="40" name="resulthome" type="integer"/>
-        <element label="startDate" max_length="40" name="startdate" type="string"/>
+        <element label="rodada atual?" max_length="40" name="rodada_atual" type="boolean"/>
+        <element label="startDate" max_length="80" name="startdate" type="string"/>
         <element label="status" max_length="40" name="status" type="string"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element label="Dia da partida" max_length="40" name="u_glide_utc_time_1" read_only="true" type="glide_utc_time"/>
+        <element attributes="edge_encryption_enabled=true" label="winner" max_length="40" name="u_winner" type="string"/>
         <element choice="1" label="winner" max_length="40" name="winner" type="choice">
             <choice/>
         </element>

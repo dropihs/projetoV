@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD233caa4ecbc53110b9c8a597529cf09b</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>0a2350a0472031107d28dac8536d4359</scope_name>
+        <serialized_content>{"FlowDesigner:FD233caa4ecbc53110b9c8a597529cf09b":{"Info_Matches":["Any"],"Info_Matches.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Info_Matches\",\"mandatory\":\"false\",\"child_name\":\"Info_Matches_string\",\"uiUniqueId\":\"2c364ab7-3941-490b-8ea1-402ae97cf9c7\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"Info_Matches_string\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"72b6491c-65bf-48a1-8e23-3fe78b9abcc3\"}"}},"FlowDesigner:FD233caa4ecbc53110b9c8a597529cf09b.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"infoMatches\",\"mandatory\":\"false\",\"uiUniqueId\":\"f44c8bfa-aca2-4892-b821-e8ee54a721e1\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD233caa4ecbc53110b9c8a597529cf09b\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"\",\"sourceUiUniqueId\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"9\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 18:59:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e33caa4e47c531107d28dac8536d439b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD233caa4ecbc53110b9c8a597529cf09b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="projetoV" source="x_1020518_projetov">0a2350a0472031107d28dac8536d4359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="projetoV">0a2350a0472031107d28dac8536d4359</sys_scope>
+        <sys_update_name>sys_complex_object_e33caa4e47c531107d28dac8536d439b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 12:02:13</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

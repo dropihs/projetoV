@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="22bdf7d2470931107d28dac8536d433e" label="Users Choice" max_length="40" name="x_1020518_projetov_users_choice" type="collection">
+        <element choice="1" display="true" label="Escolha do usuario" max_length="40" name="escolha_do_usuario" type="choice">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Rodada" max_length="100" name="u_rodada" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

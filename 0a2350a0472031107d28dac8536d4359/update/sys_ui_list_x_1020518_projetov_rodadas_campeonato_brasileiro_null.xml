@@ -2,153 +2,123 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1020518_projetov_rodadas_campeonato_brasileiro" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>awayteam</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>matchday</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>a567f208470131107d28dac8536d43f3</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>3ef82e9747c131107d28dac8536d438a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>awayteamtla</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>hometeam</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>6d67f208470131107d28dac8536d43f3</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>bef82e9747c131107d28dac8536d438a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>currentmatch</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>awayteam</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>ed67f208470131107d28dac8536d43f3</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>32f82e9747c131107d28dac8536d438b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>enddate</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>resulthome</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>6167f208470131107d28dac8536d43f4</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>b2f82e9747c131107d28dac8536d438b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>hometeam</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>resultaway</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>e167f208470131107d28dac8536d43f4</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>36f82e9747c131107d28dac8536d438b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>hometeamtla</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>u_winner</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>ed67f6c8470131107d28dac8536d438c</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>b6f82e9747c131107d28dac8536d438b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>id</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>status</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>6167f6c8470131107d28dac8536d438d</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>3af82e9747c131107d28dac8536d438b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>match</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f2f82e9747c131107d28dac8536d438a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>e167f6c8470131107d28dac8536d438d</sys_id>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
+            <sys_id>baf82e9747c131107d28dac8536d438b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>matchday</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>8</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>6567f6c8470131107d28dac8536d438d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>resultaway</element>
-            <list_id display_value="x_1020518_projetov_rodadas_campeonato_brasileiro" element="NULL" name="x_1020518_projetov_rodadas_campeonato_brasileiro" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ed67f208470131107d28dac8536d43f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>9</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
-            <sys_id>e567f6c8470131107d28dac8536d438d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -162,10 +132,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-29 14:40:36</sys_created_on>
+            <sys_created_on>2023-09-08 15:57:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ed67f208470131107d28dac8536d43f1</sys_id>
+            <sys_id>f2f82e9747c131107d28dac8536d438a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1020518_projetov_rodadas_campeonato_brasileiro</sys_name>
             <sys_package display_value="projetoV" source="x_1020518_projetov">0a2350a0472031107d28dac8536d4359</sys_package>
@@ -173,7 +143,7 @@
             <sys_scope display_value="projetoV">0a2350a0472031107d28dac8536d4359</sys_scope>
             <sys_update_name>sys_ui_list_x_1020518_projetov_rodadas_campeonato_brasileiro_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-29 14:40:36</sys_updated_on>
+            <sys_updated_on>2023-09-08 15:57:51</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

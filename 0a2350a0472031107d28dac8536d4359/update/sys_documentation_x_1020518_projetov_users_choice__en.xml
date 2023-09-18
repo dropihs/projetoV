@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Users Choice" language="en" table="x_1020518_projetov_users_choice">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Users Choice</label>
+            <language>en</language>
+            <name>x_1020518_projetov_users_choice</name>
+            <plural>Users Choices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 19:37:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Users Choice</sys_name>
+            <sys_package display_value="projetoV" source="x_1020518_projetov">0a2350a0472031107d28dac8536d4359</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="projetoV">0a2350a0472031107d28dac8536d4359</sys_scope>
+            <sys_update_name>sys_documentation_x_1020518_projetov_users_choice__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 19:37:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
